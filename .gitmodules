@@ -1,0 +1,3 @@
+[submodule "mariadb/server"]
+	path = mariadb/server
+	url = https://github.com/MariaDB/server.git
